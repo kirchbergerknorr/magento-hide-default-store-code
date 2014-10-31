@@ -1,0 +1,6 @@
+app/code/community/Bubble/HideDefaultStoreCode/etc/config.xml app/code/community/Bubble/HideDefaultStoreCode/etc/config.xml
+app/code/community/Bubble/HideDefaultStoreCode/etc/system.xml app/code/community/Bubble/HideDefaultStoreCode/etc/system.xml
+app/code/community/Bubble/HideDefaultStoreCode/Helper/Data.php app/code/community/Bubble/HideDefaultStoreCode/Helper/Data.php
+app/code/community/Bubble/HideDefaultStoreCode/Model/Observer.php app/code/community/Bubble/HideDefaultStoreCode/Model/Observer.php
+app/code/community/Bubble/HideDefaultStoreCode/Model/Store.php app/code/community/Bubble/HideDefaultStoreCode/Model/Store.php
+app/etc/modules/Bubble_HideDefaultStoreCode.xml app/etc/modules/Bubble_HideDefaultStoreCode.xml

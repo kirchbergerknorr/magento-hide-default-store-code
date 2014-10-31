@@ -1,0 +1,14 @@
+{
+    "name": "jreinke/magento-hide-default-store-code",
+    "description": "Magento Hide default storecode",
+    "keywords": ["magento"],
+    "type": "magento-module",
+    "authors": [
+        {
+            "name": "Benedikt Volkmer",
+            "email": "bv@kirchbergerknorr.de"
+        }
+    ],
+    "require": {
+    }
+}
